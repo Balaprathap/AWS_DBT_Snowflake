@@ -319,8 +319,9 @@ uv run dbt test
 
 **BalaPrathap Chellakkannu**
 🔗 GitHub: [@Balaprathap](https://github.com/Balaprathap)
+-----
 💼 LinkedIn: https://www.linkedin.com/in/balaprathap-chellakkannu/
----
+-----
 
 ## 📄 License
 
